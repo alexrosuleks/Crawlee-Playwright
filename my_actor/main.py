@@ -8,7 +8,7 @@ https://docs.apify.com/sdk/python
 
 from __future__ import annotations
 
-from apify import Actor
+from scrapely import Actor
 from crawlee.crawlers import PlaywrightCrawler
 
 from .routes import router
